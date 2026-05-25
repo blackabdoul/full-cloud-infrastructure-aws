@@ -90,7 +90,7 @@ User Browser
 
 ---
 
-## Real Challenges Solved
+## Challenges Solved
 
 **1. Secrets Manager before RDS existed**  
 The console wizard required an existing RDS instance. Created the secret manually as JSON first, linked to RDS after provisioning.
