@@ -1,5 +1,16 @@
 # Full Cloud Infrastructure System
 
+![AWS](https://img.shields.io/badge/AWS-Cloud-232F3E?style=flat&logo=amazonaws&logoColor=FF9900)
+![EC2](https://img.shields.io/badge/EC2-t2.micro-FF9900?style=flat&logo=amazonec2&logoColor=white)
+![RDS](https://img.shields.io/badge/RDS-MySQL_8.4-527FFF?style=flat&logo=amazonrds&logoColor=white)
+![S3](https://img.shields.io/badge/S3-Static_Hosting-569A31?style=flat&logo=amazons3&logoColor=white)
+![CloudFront](https://img.shields.io/badge/CloudFront-HTTPS_CDN-8C4FFF?style=flat&logo=amazonaws&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-8.5.5-777BB4?style=flat&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-8.4-4479A1?style=flat&logo=mysql&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-HTTP_Server-D22128?style=flat&logo=apache&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Decommissioned-lightgrey?style=flat)
+![Free Tier](https://img.shields.io/badge/AWS_Free_Tier-Complete-00C9FF?style=flat&logo=amazonaws&logoColor=white)
+
 > **Course:** Practical in Cloud Computing — Mr Ajayi  
 > **Student:** Abdoul Malick LAWAL  
 > **Status:** ✅ Complete & decommissioned (AWS Free Tier — May 2026)
