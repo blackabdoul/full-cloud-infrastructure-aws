@@ -165,7 +165,7 @@ All resources were deleted or disabled on completion to avoid post-Free Tier cha
 
 - [x] 47-slide PowerPoint presentation (real screenshots, live data)
 - [x] 6-page Presentation Guide (Word)
-- [x] 8 LinkedIn posts — one per phase
+- [x] 8 LinkedIn posts — one per phase → [LinkedIn Profile](https://www.linkedin.com/in/abdoul-malick-lawal/)
 - [x] Project Report (Word — formal submission)
 - [x] This README
 
