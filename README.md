@@ -146,9 +146,11 @@ Fix: Disable distribution → cancel plan → delete at end of billing cycle.
 ├── config/
 │   ├── bucket-policy.json # S3 public-read bucket policy
 │   └── iam-policy-ec2-s3-scoped.json  # Custom scoped EC2→S3 policy
-└── docs/
-    ├── Project_Report.docx
-    └── Presentation_Guide.docx
+├── docs/
+│   ├── Project_Report.docx
+│   └── Presentation_Guide.docx
+└── linkedIn/
+    └──lnkedin # link to profile
 ```
 
 ---
